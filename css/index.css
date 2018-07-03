@@ -1,0 +1,88 @@
+body{
+  background-color: #ffffff;
+  background-image: url('http://www.montrealtsinghua.org/wp-content/themes/the-funk/assets/images/body.png')
+}
+
+ul{
+  list-style: none;
+  line-height: 25px;
+}
+
+article{
+  display: block;
+}
+
+
+#university li a{
+  border-bottom: 1px solid #ddd;
+  color: #612460 !important;
+}
+
+#qinghua{
+  background-color: #612460 !important;
+}
+
+#left_top{
+  background-color: #612460 !important;
+  color: white;
+  border-radius: 0%;
+
+}
+
+#date{
+  display: inline;
+  width: 10%;
+}
+
+#read_more{
+  margin-top: 10px;
+  background-color: #612460 !important;
+  color: white;
+}
+
+#submit{
+  background-color: #612460 !important;
+}
+
+
+.col-md-8{
+  padding-top: 50px;
+}
+
+.panel-body{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.title{
+  font-size: 28px;
+  color:  #612460 !important;
+  line-height: 30px;
+}
+
+.subtitle{
+  line-height: 25px;
+}
+
+.col-md-4{
+  padding-top: 50px;
+}
+
+.article{
+  background-color: #fff;
+  border-radius: 3px;
+  margin-top: 0;
+  margin-bottom: 4rem;
+  padding: 4rem 4rem 2.4rem;
+  border-color: #E5E6E9 #DFE0E4 #D0D1D5;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.entry-meta span a{
+  color: #612460 !important;
+}
+
+.dropdown-toggle{
+  color: white;
+}
